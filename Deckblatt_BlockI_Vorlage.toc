@@ -1,0 +1,13 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{\numberline {1}Einleitung}{3}{}%
+\contentsline {section}{\numberline {2}Physikalische Grundlagen}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Grundlage 1}{3}{}%
+\contentsline {subsection}{\numberline {2.2}Grundlage 2}{3}{}%
+\contentsline {section}{\numberline {3}Versuchsdurchführung und -auswertung}{3}{}%
+\contentsline {subsection}{\numberline {3.1}Versuchsteil 1}{3}{}%
+\contentsline {subsection}{\numberline {3.2}Versuchsteil 2}{3}{}%
+\contentsline {subsection}{\numberline {3.3}Versuchsteil 3}{3}{}%
+\contentsline {subsection}{\numberline {3.4}Zusammenfassung und Fazit}{3}{}%
+\contentsline {section}{Appendices}{5}{}%
+\contentsline {section}{\numberline {A}Messdaten zu Versuchsteil 1}{5}{}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
